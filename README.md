@@ -6,3 +6,5 @@ The same process is followed with the second image. Each triangle points are tak
 Same process is repeated for every triangles so that the face from the first image gets converted into the shape of face of second image. The generated face is then masked with the second image.
 
 Seamless cloning is done to match the color of face of the generated image with the second image body.
+
+The swapped image is uploaded . It will not be accurate. In order to make a accurate image the position of the two faces and the color of faces should match.
